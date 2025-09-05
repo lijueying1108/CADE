@@ -67,7 +67,7 @@ CADE 내 다분야 해석(Multi-Disciplinary Analysis, MDA) 모듈 내에는 다
 
 ### Documentation
 
-📖 [Detailed documentation](http://203.252.161.200:8000/) on all aspects of CADE.  
+📖 [Detailed documentation](https://lijueying1108.github.io/CADE-Tutorial/) on all aspects of CADE.  
 
 ## Tutorials
 
