@@ -60,23 +60,27 @@ CADE 내 다분야 해석(Multi-Disciplinary Analysis, MDA) 모듈 내에는 다
 ## How to Get It
 
 ### Windows
-[Download CADE](https://github.com/Microsoft/AirSim/releases)
+[![Windows Build](https://img.shields.io/badge/Windows-Build%20Passing-brightgreen?style=flat-square&logo=windows)](https://github.com/kada/cade/actions/workflows/test_windows.yml)
+* [Download CADE](https://github.com/Microsoft/AirSim/releases)
 
 ---
 
-## Documentation & Tutorials
+### Documentation
 
 📖 [Detailed documentation](http://203.252.161.200:8000/) on all aspects of CADE.  
 
-🎥 [Video Tutorial - Using CADE](https://youtu.be/example) by KADA CADE Team
+## Tutorials
+
+- 🎥 [Video Tutorial - Using CADE](https://youtu.be/example) by KADA CADE Team
 
 ---
 
 ## Participate
 
 ### Paper
-More technical details are available in [CADE paper (Journal or Conference Name)](URL). Please cite as:  
-```bibtex
+
+More technical details are available in [CADE paper (Journal or Conference Name)](URL). Please cite as: 
+```
 @inproceedings{airsim2017fsr,
   author = {e.g., Zin, MinJi},
   title = {CADE},
@@ -88,18 +92,22 @@ More technical details are available in [CADE paper (Journal or Conference Name)
 ```
 
 ### Contribute
-Take a look at [open issues](https://github.com/kada/cade/issues) if you are looking for areas to contribute.  
-[More on CADE design](https://sites.google.com/view/kadalab/projects/cade)
+
+Please take a look at [open issues](https://github.com/kada/cade/issues) if you are looking for areas to contribute.
+
+* [More on CADE design](https://sites.google.com/view/kadalab/projects/cade)
 
 ### Who is Using CADE?
-We are maintaining a [list](https://github.com/kada/cade/cade-users) of projects, people, and groups in the aircraft design community.  
+
+We are maintaining a [list](https://github.com/kada/cade/cade-users) of projects, people, and groups in the aircraft design community.
+
 If you want to be featured, [make a request here](https://github.com/kada/cade/issues).
 
 ---
 
 ## Contact
 
-⛓️‍💥 Join our [GitHub Discussions](https://github.com/kada/cade/discussions) to stay up to date or ask questions.  
+💬 Join our [GitHub Discussions](https://github.com/kada/cade/discussions) to stay up to date or ask questions.  
 
 🏘️ KADA group on [Facebook](https://www.facebook.com/groups/number_id/).  
 
