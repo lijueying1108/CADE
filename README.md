@@ -99,11 +99,11 @@ If you want to be featured, [make a request here](https://github.com/kada/cade/i
 
 ## Contact
 
-💬 Join our [GitHub Discussions](https://github.com/kada/cade/discussions) to stay up to date or ask questions.  
+⛓️‍💥 Join our [GitHub Discussions](https://github.com/kada/cade/discussions) to stay up to date or ask questions.  
 
-📘 KADA group on [Facebook](https://www.facebook.com/groups/number_id/).  
+🏘️ KADA group on [Facebook](https://www.facebook.com/groups/number_id/).  
 
-📧 For questions, contact developer **Zin Win Thu**. Email at [this link](https://sites.google.com/view/kadalab/members/students).
+❔ For questions, contact developer **Zin Win Thu**. Email at [this link](https://sites.google.com/view/kadalab/members/students).
 
 ---
 
@@ -115,4 +115,4 @@ If you want to be featured, [make a request here](https://github.com/kada/cade/i
 
 ## License
 
-This project is released under the **EXAMPLE License**. See the [License file](LICENSE) for more details.
+🪪 This project is released under the **EXAMPLE License**. See the [License file](LICENSE) for more details.
