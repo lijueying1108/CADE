@@ -19,3 +19,8 @@ CADE 내 다분야 해석(Multi-Disciplinary Analysis, MDA) 모듈 내에는 크
 **Check out the quick 1.5 minute demo**
 
 [![CADE Analysis Demo Video](docs/images/demo_video.png)](https://www.youtube.com/watch?v=79xQfS5-f30)
+
+## How to Get It
+
+### Windows
+[![Build Status](docs/images/windows.svg)]
