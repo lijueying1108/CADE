@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="docs/images/cade_logo.png" alt="CADE Logo" width="200"/>
+  <img src="docs/images/cade_logo.png" alt="CADE Logo" width="400"/>
 </p>
 
-<h1 align="center">CADE - Comprehensive Aircraft Design Environment</h1>
+<h2 align="center">CADE - Comprehensive Aircraft Design Environment</h2>
 
 <p align="center">
   <a href="https://github.com/kada/cade/issues"><img src="https://img.shields.io/github/issues/kada/cade?style=flat-square&logo=github" alt="Issues"></a>
